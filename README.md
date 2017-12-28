@@ -53,9 +53,6 @@ The project is called `proj`
 
         FAILED (failures=1)
 
-----------------------------------------------------------------------
-Ran 2 tests in 0.000s
-
 
 ##### Tell unittest which one to run
 
